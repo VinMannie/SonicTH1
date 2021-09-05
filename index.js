@@ -186,7 +186,7 @@ var Module = typeof Module !== 'undefined' ? Module : {};
     }
   
    }
-   loadPackage({"files": [{"filename": "/Data.rsdk", "start": 0, "end": 45532056, "audio": 0}], "remote_package_size": 45532056, "package_uuid": "2dff0a74-8f2d-48da-80fb-852249a6f27d"});
+   loadPackage({"files": [{"filename": "/Data.rsdk", "start": 0, "end": 31974405, "audio": 0}], "remote_package_size": 31974405, "package_uuid": "2dff0a74-8f2d-48da-80fb-852249a6f27d"});
   
   })();
   
